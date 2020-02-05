@@ -9,3 +9,6 @@ https://docs.google.com/presentation/d/1-4eLLvtsLMdsqpgfXV1n_2BScdg9oUHxIQBZohzS
 * [Intéraction Models](interactionModel.php)
 * [Définition Relations](definitionRelations.php)
 
+### Templates
+* [contact.blade.php](Templates/contact.blade.php)
+
