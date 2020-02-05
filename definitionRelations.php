@@ -44,13 +44,13 @@ class ManyToMany{
     //Many to Many
     //Méthode sur la table Posts
     public function tags(){
-        return $this->belongsToMany('App\Posts');
+        return $this->belongsToMany('App\Post');
     }
 
     //Inverse du Many to Many
     //Méthode sur la table Posts
     public function posts(){
-        return $this->belongsToMany('App\Posts');
+        return $this->belongsToMany('App\Tag');
     }
 
 }
