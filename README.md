@@ -8,7 +8,13 @@ https://docs.google.com/presentation/d/1-4eLLvtsLMdsqpgfXV1n_2BScdg9oUHxIQBZohzS
 * [Fichier de Migration](definitonRoutes.php)
 * [Intéraction Models](interactionModel.php)
 * [Définition Relations](definitionRelations.php)
+* [Fonctions utiles](fonctionLaravel.php)
+* [Formulaires](formulaire.blade.php)
 
 ### Templates
 * [contact.blade.php](Templates/contact.blade.php)
+
+### Posts
+
+* [Posts](posts)
 
